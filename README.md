@@ -33,5 +33,12 @@ php artisan migrate
 6. Jalankan server
 php artisan serve
 
-## Author
-Ghapirrr
+---
+
+## 📸 Screenshot
+![Preview](https://github.com/Ghafi-shiend/agregator_19715/blob/main/agregator.jpg?raw=true)
+
+---
+
+## 👤 Author
+Ghafira Anindya Pasha
